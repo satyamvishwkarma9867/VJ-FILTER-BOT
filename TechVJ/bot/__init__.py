@@ -14,7 +14,7 @@ class TechVJXBot(Client):
     def __init__(self):
         super().__init__(
             name=SESSION,
-            api_id=API_ID,
+            api_id=API_ID,7905022904:AAFuyNGFRFkhI2q3ts8YeC2jfaA3hBQ5tYg
             api_hash=API_HASH,
             bot_token=BOT_TOKEN,
             workers=150,
@@ -68,3 +68,4 @@ TechVJBot = TechVJXBot()
 
 multi_clients = {}
 work_loads = {}
+
